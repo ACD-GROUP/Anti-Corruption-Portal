@@ -12,11 +12,12 @@
     "@tsparticles/engine": "^3.1.0",
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.1.0",
+    "apexcharts": "^3.45.2",
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.11.3",
     "next": "14.1.0",
-    "next-auth": "^4.24.5",
     "react": "^18",
+    "react-apexcharts": "^1.4.1",
     "react-dom": "^18"
   },
   "devDependencies": {
